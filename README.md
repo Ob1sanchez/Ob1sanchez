@@ -255,5 +255,5 @@
 </details> 
 
 -----
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
+Credits: [Ob1sanchez](https://github.com/Ob1sanchez)
 Last Edited on: 23/09/2022# Ob1sanchez
